@@ -4,14 +4,13 @@ body {
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
-    background: hsl(280, 13%, 87%);
+    background-color: hsl(280, 13.43%, 86.86%);
+    color: hsl(223.33, 9.78%, 36.08%);
 }
 
 h1 {
-    font-family: "Poppins", sans-serif;
     font-weight: 500;
-    font-style: normal;
-    color: hsl(281, 26%, 48%);
+    color: hsl(280.95, 25.71%, 48.04%);
     text-decoration: underline;
     text-align: center;
 }
@@ -38,13 +37,13 @@ ul {
 button {
     background-color: hsl(281, 26%, 48%);
     color: hsl(1, 0%, 100%);
-    font-size: 16px;
+    font-size: 24px;
 }
 
 button:hover {
     background-color: hsl(1, 0%, 100%);
     font-weight: bold;
     color: hsl(281, 26%, 48%);
-    border-radius: 10px;
+    border-radius: 20px;
     border-color: hsl(1, 0%, 100%);
 }
